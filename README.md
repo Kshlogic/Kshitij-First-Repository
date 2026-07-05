@@ -7,13 +7,15 @@ Welcome to my first GitHub repository!
 ## 📖 About Me
 
 I'm Kshitij, a first-year Computer Science student.
-I'm passionate about learning programming and building projects that improve my skills.
+I'm passionate about learning programming.
+
 
 ---
 
 ## 🚀 Currently Learning
 
-- Git & GitHub
+- Git & GiTHUB
+- Basics of coding 
 - Python
 - Problem Solving
 
@@ -22,7 +24,8 @@ I'm passionate about learning programming and building projects that improve my 
 ## 🎯 Goals
 
 - Improve my programming skills
-- Build interesting projects
+- Become a fast coder
+- Build unique and interesting projects
 - Learn new technologies
 
 ---
@@ -30,7 +33,7 @@ I'm passionate about learning programming and building projects that improve my 
 ## 📂 About This Repository
 
 This repository marks the beginning of my coding journey. I'll keep updating it as I learn and create new projects.
-
+looking forward to excel in the world of coding.
 ---
 
 ## 🙌 Thank You
