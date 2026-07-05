@@ -1,3 +1,4 @@
-# Kshitij-First-Repository
+Kshitij.
 Hello Everyone Kshitij this side.
-This Repository for now is my personal space and I will be 
+First year computer science student.
+Totally not new to computer and stuff but yeah still lots of practice needed and hoping forward to excel in this field.
